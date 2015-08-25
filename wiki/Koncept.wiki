@@ -1,0 +1,42 @@
+=Základní koncept=
+
+Zombie Smash je pracovní název hry tvořené jako semestrální projekt pro předmět A7B39PHA, Y39PHA. Půjde o arkádovou střílečku z pohledu shora. Krom bezhlavého střílení a masakrování různých druhů zombie bude hra obsahovat i RPG prvky. Hra se bude odehrávat ve městě plném infikovaných lidí záhadným virem který byl vytvořen šíleným profesorem z VŠCHT jako pokus o zničení ČVUT. Město ve kterém se hra odehrává je Praha 6, Dejvice(ideální místo pro horor).
+
+=Selling points:=
+
+    Ovládání školou poznamenaného studenta připraveného rozmasakrovat každou zombie kterou potká
+    Možnost kupování, či sbírání různých zbraní pro co nejefektivnějši likvidaci protivníků
+    Reálné prostředí v okolí Kulaťáku
+    Rozličné efekty výbuchů a rozmasakrování zombie
+    Tuny nechutných zombie připravených k ugrilování plamenometem(před případným grilováním doporučujeme nasypat do nich trochu olova, zlepši to chuť)
+    Řezej, sekej, trhej, masakruj, deformuj, střílej, zapaluj prostě dělej vše po čem tvá zkažená duše touží
+
+=Zpracování=
+
+    Pohled: 3D perspektiva, kamera pevná shora, možnost přiblížení/oddálení kamery pro širší pole likvidace
+    Pohyb: 2D do všech stran
+    Modely postav: 3D animované (keyframe, skeletální animace)
+    Terén: multitexturing, zástavba 3D modely
+    Mraky pomocí částic a shaderů
+    Efekty částicové, fullscreen shadery
+    Příběh ve formě textových bublin u hráče
+    Dynamicky generované mise s pevnými questy (zachraň nějakou kočku, zachraň děkana, zastřel matfyzácké zombie apod.)
+
+=Herní a bojový systém=
+
+Hra začíná probuzením hráče časně ráno ve svém bytě. Poté co vyjde z domu aby zamířil na přednášku z Lineární algebry zjistí, že svět který znal(java, KFC, pivo) je pryč a všude jsou hromady páchnoucích zombie. Když se na něj pokusí zaútočit první zombík, hráč si uvědomí, že je algebra opravdu vražedný předmět, umlátí totiž zombíka skripty jménem Úvod do algebry, zejména lineární. Pomocí masa z prvního zombíka si vydělá peníze na první zbraň (klasický crowbar), zombie maso je totiž v novém světě vzácným artiklem(kdo by namítal že se za noc jen tak nepřemění svět, musí připustit že student FELu spí občas i víc než 24h). Od začátku hry má hráč možnost volného pohybu v herním světě, domov bude sloužit pro ukládání hry(toto se může změnit)
+
+Většina nepřátel je dynamická (tlusté zombie, hubené zombie, schnilé zombie, matfyzacké zombie a extra nebezpečné VŠCHT zombie s chemickým útokem), Hráč bude nucen ničit jak samotné nepřátele tak i podpůrné struktury (např. lihen zombiku).
+
+Za zlikvidování každého nepřítele a splnění úkolu hráč získává odměnu nebo maso ze zombie které funguje jako surovina a jde přemenit na peníze. Ve hře se dále vyskytují speciální bonusy, které účinkují okamžitě po sebrání (doplnění zdraví, dočasný upgrade zbraní apod.)
+RPG prvky
+
+RPG prvky spočívají zejména v kupování zbraní a zlepšování hrdinových vlastností jako je množství života, obrana, schopnost zacházet se zbraněmi apod. (viz Fallout). Hráč začíná s pokaždé se stejnými vlastnostmi a v průběhu hry se může specializovat.
+
+=Ovládání=
+
+Hráč se ovládá přímo klávesami (PC)
+
+=Zbraně=
+
+Zbraně jsou rozděleny na kontaktní a nekontaktní. Např. kulomet, raketomet, plamenomet jsou nekontaktni a motorová pila, bodáky, sekačka na trávu upravená pro zastříhávání nehtů zombie, popř. cokoliv co by mohlo z blízka nějakým způsobem rozmasakrovat zombika jsou zbraně kontaktní. 
